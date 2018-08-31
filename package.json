@@ -1,0 +1,21 @@
+{
+  "name": "AForum",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "moment": "^2.10.6",
+    "parse5": "^1.4.1",
+    "react-native": "^0.11.2",
+    "react-native-communications": "0.0.6",
+    "react-native-html-webview": "0.0.14",
+    "react-native-refreshable-listview": "^1.3.0",
+    "react-native-store": "0.0.9",
+    "react-timer-mixin": "^0.13.3",
+    "underscore": "^1.8.3",
+    "url": "^0.11.0",
+    "xmldom": "^0.1.19"
+  }
+}
